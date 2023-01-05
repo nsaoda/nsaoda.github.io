@@ -1,0 +1,42 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Nurani Saoda
+tagline:          'Nurani Saoda'
+description:      'PhD Candidate at the University of Virginia'
+url:              http://nsaoda.github.io
+#baseurl:          /
+
+author:
+  name:           'Nurani Saoda'
+  #url:            http://nsaoda.github.io
+
+logo:             /assets/img/profile.JPG
+
+#paginate:         5
+gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-include-cache
+
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/nsaoda/nsaoda.github.io
+
+tags:
+
+email_username: 'saoda@virginia.edu'
+github_username:  nsaoda
+scholar_username: 'https://scholar.google.com/citations?user=4c8hY_MAAAAJ&hl=en'
+linkedin_username: saodacynthia
+
