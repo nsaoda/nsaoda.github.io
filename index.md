@@ -23,7 +23,7 @@ Before starting my PhD, I received my undergraduate degree in Electrical and Ele
 * September 2021 --- I attended the virtual Grace Hopper Celebration as a Student Scholar.
 * April 2021 --- I participated in the virtual CRA-WP Grad Cohort and was inspired by many interesting talks!
 * January 2021 --- I gave a talk on "Making IoT Batteryless: Challenges and Opportunities" at the
-Embedded Systems Lunch Meetings, University of San Diego
+Embedded Systems Lunch Meetings, University of California, San Diego
 
 
 
