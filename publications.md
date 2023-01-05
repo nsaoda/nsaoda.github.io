@@ -93,7 +93,7 @@ in AR View.** <br />
    [\[paper\]]({{'/'|relative_url}}assets/papers/Paper4_saoda19herald.pdf) [\[slides\]]({{'/'|relative_url}}assets/presentations/ENSSys2019.pptx)
 
 
-5. **Low Power but High Energy: The Looming Costs of Billions of Smart Devices**
+* **Low Power but High Energy: The Looming Costs of Billions of Smart Devices**
   Wenpeng Wang, Victor Ariel Leal Sobral, Md Fazlay Rabbi Masum Billah, *Nurani Saoda*, Nabeel Nasir, Bradford Campbell <br />
   [1st ACM Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon’22 with OSDI’22)](https://hotcarbon.org/) <br />
    [\[paper\]]({{'/'|relative_url}}assets/papers/Paper8_saoda22hotcarbon.pdf)
