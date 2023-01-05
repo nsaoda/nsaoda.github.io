@@ -81,8 +81,8 @@ html {
   /*color: #fff;*/
   color:  #515151;
   /*margin-top: 0;*/
-  margin-top: -4; /* space above the avatar */
-  margin-bottom: -10;
+  margin-top:0; /* space above the avatar */
+  margin-bottom: -8;
   font-family: "Abril Fatface", serif;
   /*font-size: 3.25rem;*/
   font-size: 1.9rem;
@@ -91,7 +91,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 2rem; /* space below the social icons*/
-  margin-top:  3rem;
+  margin-top:  2rem;
 }
 .sidebar-nav-item {
   display: block;
