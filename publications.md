@@ -29,7 +29,7 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
   Tushar Routh, *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
   [19th IEEE Conference on Sensing, Communication, and Networking (SECON’22)](https://secon2022.ieee-secon.org/) <br />
   [CORE ranking-B, 26.1% acceptance rate] <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper2_saoda22lpcsb.pdf)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper10_saoda22lpcsb.pdf)
 
 * **BLE Can See: A Reinforcement Learning Approach for Radio Frequency based Occupancy Detection** <br />
   Md Fazlay Rabbi Mashum Billah, *Nurani Saoda*, Jiechao Gao, Bradford Campbell <br />
