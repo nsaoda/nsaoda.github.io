@@ -23,7 +23,7 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
   *Nurani Saoda*, Wenpeng Wang, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
   [21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN’22)](https://ipsn2022.signalprocessingsociety.org/)<br />
   [CORE ranking-A\*, 30.2% acceptance rate] <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper1_saoda21altair.pdf) [\[slides\]]({{'/'|relative_url}}assets/presentations/IPSN2022_Saoda.pptx)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper1_saoda22altair.pdf) [\[slides\]]({{'/'|relative_url}}assets/presentations/IPSN2022_Saoda.pptx)
 
 * **Low Cost Light Source Identification in Real World Settings** <br />
   Tushar Routh, *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
