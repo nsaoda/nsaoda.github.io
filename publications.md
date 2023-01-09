@@ -5,7 +5,7 @@ title: Publications
 
 For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4c8hY_MAAAAJ&hl=en)
 
-### Conference papers (Peer-reviewed)
+### Conference Papers (Peer-reviewed)
 
 * **RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Underused Data Channels** <br />
   *Nurani Saoda*, Victor Ariel Leal Sobral, Ruchir Shah, Wenpeng Wang, Bradford Campbell <br />
@@ -49,7 +49,7 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
   19th IEEE Conference on Computer and Information Technology (ICCIT’16)**[Best paper award]** <br />
   [\[paper\]]({{'/'|relative_url}}assets/papers/Paper9_saoda16emotion.pdf)
 
-### Conference papers (In preparation)
+### Conference Papers (In preparation)
 
 * **An Energy-harvesting System Architecture for Reliable Event Detection with Intermittent Power** <br />
   *Nurani Saoda*, Viswajith Govinda Rajan, Md Fazlay Rabbi Mashum Billah, Bradford Campbell [In preparation]
