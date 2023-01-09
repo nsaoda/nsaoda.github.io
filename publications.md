@@ -29,13 +29,13 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
   Tushar Routh, *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
   [19th IEEE Conference on Sensing, Communication, and Networking (SECON’22)](https://secon2022.ieee-secon.org/) <br />
   [CORE ranking-B, 26.1% acceptance rate] <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper10_saoda22lpcsb.pdf)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper10_routh22lpcsb.pdf)
 
 * **BLE Can See: A Reinforcement Learning Approach for Radio Frequency based Occupancy Detection** <br />
   Md Fazlay Rabbi Mashum Billah, *Nurani Saoda*, Jiechao Gao, Bradford Campbell <br />
   [20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN’21)](https://ipsn.acm.org/2021/) <br />
   [CORE ranking-A\*, 24.8% acceptance rate] <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper5_saoda21blecansee.pdf)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper5_billah21blecs.pdf)
 
 
 * **UbiTrack: Enabling Scalable & Low-Cost Device Localization with Onboard WiFi** <br />
@@ -96,7 +96,7 @@ in AR View.** <br />
 * **Low Power but High Energy: The Looming Costs of Billions of Smart Devices**
   Wenpeng Wang, Victor Ariel Leal Sobral, Md Fazlay Rabbi Masum Billah, *Nurani Saoda*, Nabeel Nasir, Bradford Campbell <br />
   [1st ACM Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon’22 with OSDI’22)](https://hotcarbon.org/) <br />
-   [\[paper\]]({{'/'|relative_url}}assets/papers/Paper8_saoda22hotcarbon.pdf)
+   [\[paper\]]({{'/'|relative_url}}assets/papers/Paper8_wang22hotcarbon.pdf)
 
 
 
