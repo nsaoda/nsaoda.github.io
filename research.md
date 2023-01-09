@@ -23,7 +23,7 @@ Details: [ALTAIR (IPSN'22)]({{'/'|relative_url}}assets/papers/Paper1_saoda21alta
      width="220"
      style="float: right;" />
 
-Once deployed, commercial IoT devices can hardly be upgraded to a new functionality due to closed-source hardware and software implementation. This signifies that the availability of better hardwares and advanced features regularly forces many devices to be obsolete. In the RetroIoT project, we demonstrated a new technique to upgrade an IoT device without modifying the device's hardware and software or desigining completely new devices. RetroIoT injects a new sensor or metadata through the battery ports of the device and encodes the new data into the battery voltage readings transmitted by the sensor. RetroIoT's design is simple, low energy-overhead, and only requires access to battery voltage readings.
+Once deployed, commercial IoT devices can hardly be upgraded to a new functionality due to closed-source hardware and software implementation. This signifies that the availability of better hardwares and advanced features regularly forces many devices to be obsolete. In the RetroIoT project, we demonstrated a new technique to upgrade an IoT device without modifying the device's hardware and software or desigining completely new devices. RetroIoT injects new sensor data or any metadata through the battery ports of the device and encodes the new data into the battery voltage readings transmitted by the sensor. RetroIoT's design is simple, low energy-overhead, and only requires access to battery voltage readings.
 
 Details: [RetroIoT (MobiCom'22)]({{'/'|relative_url}}assets/papers/Paper2_saoda22retroiot.pdf)
 
