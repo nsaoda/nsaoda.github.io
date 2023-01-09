@@ -42,7 +42,7 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
   Wenpeng Wang, Zetian Liu, Jiechao Gao, *Nurani Saoda*, Bradford Campbell <br />
   [8th ACM Conference on Systems for Energy-Efficient Built Environments (BuildSys’21)](https://buildsys.acm.org/2021/) <br />
   [CORE ranking-A\*, 26.2% acceptance rate] <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper6_saoda21ubitrack.pdf)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper6_wang21ubitrack.pdf)
 
 * **Mutual Information-Based Selection of Audiovisual Affective Features to Predict Instantaneous Emotional State** <br />
   Sudipta Paul, *Nurani Saoda*, S M Mahbubur Rahman, Dimitrios Hatzinakos. <br />
