@@ -27,7 +27,7 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
 
 * **Low Cost Light Source Identification in Real World Settings** <br />
   Tushar Routh, *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
-  [19th IEEE Conference on Sensing, Communication, and Networking (SECON’22)] (https://secon2022.ieee-secon.org/) <br />
+  [19th IEEE Conference on Sensing, Communication, and Networking (SECON’22)](https://secon2022.ieee-secon.org/) <br />
   [CORE ranking-B, 26.1% acceptance rate] <br />
   [\[paper\]]({{'/'|relative_url}}assets/papers/Paper2_saoda22lpcsb.pdf)
 
@@ -69,7 +69,7 @@ in AR View.** <br />
   Wenpeng Wang, Jiechao Gao, *Nurani Saoda*, Fateme Nikseresht, Viswajith Govinda Rajan, Bradford Campbell <br/>
   22th ACM Conference on Embedded Networked Sensor Systems (IPSN’23) [Submitted]
 
-### Workshop Papers and Posters:
+### Workshop Papers and Posters (Peer-reviewed):
 
 * **SolarWalk Dataset: Occupant Identification using Indoor Photovoltaic Harvester Output Voltage** <br />
   *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Victor Ariel Leal Sobral, Bradford Campbell <br />
