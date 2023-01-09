@@ -80,7 +80,7 @@ in AR View.** <br />
   Md Fazlay Rabbi Masum Billah, Md Mofijul Islam, *Nurani Saoda*, Fateme Nikseresht, Tarique Iqbal, Bradford
   Campbell <br />
   [20th ACM Conference on Embedded Networked Sensor Systems (SenSys’22)](https://sensys.acm.org/2022/) <br />
-  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper12_sensys22splotble.pdf)
+  [\[paper\]]({{'/'|relative_url}}assets/papers/Paper12_sensys22spotble.pdf)
 
 * **Developing a General Purpose Development Platform for Energy-harvesting Applications** <br />
   *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Bradford Campbell <br />
