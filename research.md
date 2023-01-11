@@ -13,7 +13,7 @@ title: Projects
 
 Current energy-harvesting systems execute applications where tasks become logically dependent on the energy state of the storage. This approach of desigining applications is monolithic and limits scalability to new applications and power supply hardware. To address these limitations, we designed Altair energy-supervisor architecture to separate energy management from the application's main tasks. This decoupling makes energy-harvesting design easier, since now the power supply details and energy management decisions are abstracted from the applications. The energy-supervisor makes decision on behalf of the application, while ensuring different application requirements. Altair simplifies batteryless design by allowing modular and independent development of energy management and application.
 
-Details: [ALTAIR (IPSN'22)]({{'/'|relative_url}}assets/papers/Paper1_saoda21altair.pdf)
+Details: [ALTAIR (IPSN'22)]({{'/'|relative_url}}assets/papers/Paper1_saoda22altair.pdf)
 
 ## RetroIoT: IoT Device Reconfiguration using Battery Channel
 
