@@ -18,8 +18,9 @@ Before starting my PhD, I received my undergraduate degree in Electrical and Ele
 * November 2022 --- Presented [SolarWalk]({{'/'|relative_url}}assets/papers/Paper3_saoda22solarwalk.pdf) paper in [ACM BuildSys 2022](https://buildsys.acm.org/2022/)
 * October 2022 --- Presented [RetroIoT]({{'/'|relative_url}}assets/papers/Paper2_saoda22retroiot.pdf) paper in [ACM MobiCom 2022](https://www.sigmobile.org/mobicom/2022/)
 * October 2022 --- Presented a 3-MT on my research at ACM S3 workshop at MobiCom 2022.
-* September 2022 --- I presented my research on [Altair]({{'/'|relative_url}}assets/papers/Paper1_saoda21altair.pdf) and won the Second Runner up for  [ACM SIGBED Student Research](https://esweek.org/acm-sigbed-student-research-competition/) co-located with Embedded Systems Week.
+* September 2022 --- I presented my research on Altair project and won the Second Runner up for  [ACM SIGBED Student Research](https://esweek.org/acm-sigbed-student-research-competition/) co-located with Embedded Systems Week.
 * August 2022 --- I was awarded a Travel Grant to attend ACM MobiCom 2022.
+* May 2022 --- I presented [Altair]({{'/'|relative_url}}assets/papers/Paper1_saoda21altair.pdf) virtually in [ACM IPSN 2022](https://ipsn.acm.org/2022/)
 * September 2021 --- I attended the virtual Grace Hopper Celebration as a Student Scholar.
 * April 2021 --- I participated in the virtual CRA-WP Grad Cohort and was inspired by many interesting talks!
 * January 2021 --- I gave a talk on "Making IoT Batteryless: Challenges and Opportunities" at the
