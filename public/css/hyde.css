@@ -74,6 +74,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+
 }
 
 /* About section */
@@ -82,7 +83,7 @@ html {
   color:  #515151;
   /*margin-top: 0;*/
   margin-top:0; /* space above the avatar */
-  margin-bottom: -8;
+  margin-bottom: -2;
   font-family: "Abril Fatface", serif;
   /*font-size: 3.25rem;*/
   font-size: 1.9rem;
@@ -90,12 +91,13 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 2rem; /* space below the social icons*/
-  margin-top:  2rem;
+  margin-bottom: 1rem; /* space below the social icons*/
+  margin-top:  2.5rem; /* space above the "about" in sidebar */
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.6;
+  font-size: 1.3rem; /* fontsize of sidebar items */
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -130,7 +132,7 @@ a.sidebar-nav-item:focus {
 .content {
   /*padding-top:    4rem;
   padding-bottom: 4rem;*/
-  padding-top:    2rem;
+  padding-top:    1rem;  /* space in the body above "About" */
   padding-bottom: 2rem;
 }
 
@@ -139,8 +141,8 @@ a.sidebar-nav-item:focus {
 /*    max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;*/
-    max-width: 48rem; /* body width increases*/
-    margin-left: 20rem;
+    max-width: 50rem; /* body width increases*/
+    margin-left: 16rem;
     margin-right: 2rem;
   }
 }
@@ -154,8 +156,8 @@ a.sidebar-nav-item:focus {
 
 .avatar {
 
-  width: 10rem;
-  height: 10rem;
+  width: 11rem;
+  height: 11rem;
   border-radius: 100%;
   overflow: hidden;
   display: inline-block;
@@ -163,10 +165,10 @@ a.sidebar-nav-item:focus {
   text-align: center;
   position: relative;
   z-index: 1;
-  margin-bottom: 0rem; /* space between avatar and name */
+  margin-bottom: 1rem; /* space between avatar and name */
   margin-top: 0rem;
-  margin-left: 1rem;
-  margin-right: 3rem;
+  margin-left: 1.5 rem;
+  margin-right: 0rem;
 
 }
 
