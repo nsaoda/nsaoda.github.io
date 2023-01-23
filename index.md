@@ -11,6 +11,12 @@ Before starting my PhD, I received my undergraduate degree in Electrical and Ele
 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda.pdf)
 
+### Education
+
+* Ph.D., Computer Engineering, University of Virginia
+* M.S., Computer Engineering, University of Virginia
+* B.S., Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology
+
 ### News
 
 * November 2022 --- I presented my research on "Broadening the Capabilities of Self-Powered Energy-Harvesting Systems" at the Link Lab Student Seminar!
