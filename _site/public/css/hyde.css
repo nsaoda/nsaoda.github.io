@@ -91,12 +91,12 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem; /* space below the social icons*/
+  margin-bottom: 0rem; /* space below the social icons*/
   margin-top:  2.5rem; /* space above the "about" in sidebar */
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.6;
+  line-height: 1.5;
   font-size: 1.3rem; /* fontsize of sidebar items */
 }
 a.sidebar-nav-item:hover,
@@ -165,7 +165,7 @@ a.sidebar-nav-item:focus {
   text-align: center;
   position: relative;
   z-index: 1;
-  margin-bottom: 1rem; /* space between avatar and name */
+  margin-bottom: 0rem; /* space between avatar and name */
   margin-top: 0rem;
   margin-left: 1.5 rem;
   margin-right: 0rem;
