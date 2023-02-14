@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
 gem "jekyll-paginate"
 gem "jekyll-gist"
 gem "redcarpet"
