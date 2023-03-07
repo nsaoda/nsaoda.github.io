@@ -7,7 +7,7 @@ I am a PhD candidate in the Department of Computer Engineering at the University
 
 My work aims to enable green and sustainable computing in the domain of cyber-physical systems and Internet-of-Things applications. I design hardware and software techniques to make applications reconfigurable, robust, and resilient when powered from harvested energy. My research takes a step toward enabling sustainable IoT by allowing an energy-harvesting power supply to incorporate sensing, computing,  and processing.
 
-Before starting my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016 and my masters in Computer Engineering from UVA in 2020.
+I am proud member of [UVA Engineering Link Lab](https://engineering.virginia.edu/link-lab). Before starting my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016 and my masters in Computer Engineering from UVA in 2020.
 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda.pdf)
 
@@ -19,6 +19,8 @@ Before starting my PhD, I received my undergraduate degree in Electrical and Ele
 
 ### News
 
+* March 2023 --- Research for Industry talk "Designing Energy-Harvesting Devices for Sustainable Internet-of-Things" at Networking Research Group, Microsoft
+* January 2023 --- Invited talk "Sustainable Internet-of-Things with Batteryless Energy-harvesting Sensors" at Earth Systems Predictability & Resiliency Group, Pacific Northwest National Laboratory
 * November 2022 --- I presented my research on "Broadening the Capabilities of Self-Powered Energy-Harvesting Systems" at the Link Lab Student Seminar!
 * November 2022 --- I won the [University of Virginia Link Lab Student Seminar Award](https://engineering.virginia.edu/link-lab/news/link-lab-awards) as a recognition of my accomplishements in the cyber-physical systems field!
 * November 2022 --- Presented [SolarWalk]({{'/'|relative_url}}assets/papers/Paper3_saoda22solarwalk.pdf) paper in [ACM BuildSys 2022](https://buildsys.acm.org/2022/)
