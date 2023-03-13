@@ -7,7 +7,7 @@ I am a PhD candidate in the Department of Computer Engineering at the University
 
 My work aims to enable green and sustainable computing in the domain of cyber-physical systems and Internet-of-Things applications. I design hardware and software techniques to make applications reconfigurable, robust, and resilient when powered from harvested energy. My research takes a step toward enabling sustainable IoT by allowing an energy-harvesting power supply to incorporate sensing, computing,  and processing.
 
-I am proud member of [UVA Engineering Link Lab](https://engineering.virginia.edu/link-lab). Before starting my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016 and my masters in Computer Engineering from UVA in 2020.
+I am a proud member of [UVA Engineering Link Lab](https://engineering.virginia.edu/link-lab). Before starting my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016. I also completed my Masters in Computer Engineering from UVA in 2020.
 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda.pdf)
 
