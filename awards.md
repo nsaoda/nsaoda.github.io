@@ -14,5 +14,5 @@ title: Awards
 * CRA-E Funding Award to attend CRA-E workshop on Academic Careers, ACM FCRC’19, 2019
 * Travel Grant for Society of Women Engineers (SWE’18) conference, 2018
 * UVA PhD Fellowship, 2017
-* [Eugene McDermott Graduate Fellowship Award] (https://provost.utdallas.edu/mcdermott-fellows/about) by UT Dallas, 2017
+* [Eugene McDermott Graduate Fellowship Award](https://provost.utdallas.edu/mcdermott-fellows/about) by UT Dallas, 2017
 * Best Paper Award, IEEE Conference on Computer and Information Technology (ICCIT’16), 2016
