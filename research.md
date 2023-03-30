@@ -1,10 +1,21 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 
-## ALTAIR: Energy-supervisor Architecture for Batteryless Applications
+<img src="../assets/img/working.jpeg"
+     alt="working profile"
+     width="170"
+     style="float:right;" />
 
+### Interests:
+
+* Energy-harvesting and Batteryless Systems
+* Wireless Sensing and Internet-of-Things
+* Edge AI and Machine Learning
+
+
+### ALTAIR: Energy-supervisor Architecture for Batteryless Applications
 
 <img src="../assets/img/altair_pcb.png"
      alt="Prototype hardware"
@@ -15,7 +26,7 @@ Current energy-harvesting systems execute applications where tasks become logica
 
 Details: [ALTAIR (IPSN'22)]({{'/'|relative_url}}assets/papers/Paper1_saoda22altair.pdf)
 
-## RetroIoT: IoT Device Reconfiguration using Battery Channel
+### RetroIoT: Device Retrofit using Battery Voltage Channel
 
 
 <img src="../assets/img/retroiot.png"
@@ -27,7 +38,7 @@ Once deployed, commercial IoT devices can hardly be upgraded to a new functional
 
 Details: [RetroIoT (MobiCom'22)]({{'/'|relative_url}}assets/papers/Paper2_saoda22retroiot.pdf)
 
-## SolarWalk: Occupant Identification using Photovoltaic Harvesters
+### SolarWalk: Occupant Identification using Photovoltaic Harvesters
 
 <img src="../assets/img/solarwalk.png"
      alt="Prototype hardware"
@@ -38,7 +49,34 @@ Identifying occupants in a smart space is key to many smart home control applica
 
 Details: [SolarWalk (BuildSys'22)]({{'/'|relative_url}}assets/papers/Paper3_saoda22solarwalk.pdf)
 
-## Hardware Artifacts
+### BLECS: Adaptive Occupancy Sensing in Smart Buildings
+
+<img src="../assets/img/BLECS.png"
+     alt=" BLECS Implementation"
+     width="300"
+     heigth = "260"
+     style="float: right;" />
+
+Occupancy sensing engenders a wide range of automated controls with the potential of significantly curtailing building energy consumption. Traditional sensor-based systems, particularly, motion-based detection systems are notoriously inaccurate, while RF-based
+approaches fail to maintain accuracy over time as the physical arrangements of a space deviate. We designed robust occupancy sensing system, BLECS that retains high accuracy in dynamic spaces as well as in completely new environments, making it less susceptible to changes in physical objects over time. BLECS collects RF signal parameters from low power BLE devices to calculate the signal multipath profiles of an unoccupied room and trains a reinforcement-learning based agent to output a decision. By allowing a feedback on the action taken by the agent, BLECS adapts to a new environment never experienced before. The incorporation of commodity BLE-enabled IoT devices allows BLECS to be energy-efficient and ubiquitously deployable in most indoor infrastructures.
+
+Details: [BLECS (IPSN'21)]({{'/'|relative_url}}assets/papers/Paper5_billah21blecs.pdf)
+
+### UbiTrack: Device Localization for Resource-constraint IoT Devices
+
+<img src="../assets/img/ubitrack.png"
+     alt="Ubitrack deployment"
+     width="220"
+     style="float: right;" />
+
+Location information is fundamental for a diverse array of applications and has attracted
+a volume of research in the area. What remains challenging is to enable large-scale location services for small IoT devices, that are often optimized to be low-cost, small in form factor, and energy-conservative. Current WiFi-based systems require bulky setups involving multiple antenna and expensive powerhungry radio chipset, which many small IoT devices do not support. Our UbiTrack system demonstrated an accurate device localization technique using small single-antenna WiFi devices that cost less than 4\$. By introducing two-way
+association-less ranging and acquiring historical position information, UbiTrack localizes small devices in both LOS and NLOS conditions under tight energy budget.
+
+
+Details: [UbiTrack (BuildSys'21)]({{'/'|relative_url}}assets/papers/Paper6_wang21ubitrack.pdf)
+
+### Hardware Artifacts
 
 
 <!-- <p align="center">

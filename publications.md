@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4c8hY_MAAAAJ&hl=en)
+For more details, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4c8hY_MAAAAJ&hl=en)
 
 ### Conference Papers (Peer-reviewed)
 
@@ -46,7 +46,8 @@ For a full list of publications, please refer to my [Google Scholar](https://sch
 
 * **Mutual Information-Based Selection of Audiovisual Affective Features to Predict Instantaneous Emotional State** <br />
   Sudipta Paul, *Nurani Saoda*, S M Mahbubur Rahman, Dimitrios Hatzinakos. <br />
-  19th IEEE Conference on Computer and Information Technology (ICCIT’16)**[Best paper award]** <br />
+  19th IEEE Conference on Computer and Information Technology (ICCIT’16)
+  <span style="color:red">[Best paper award]</span><br />
   [\[paper\]]({{'/'|relative_url}}assets/papers/Paper9_saoda16emotion.pdf)
 
 ### Conference Papers (In preparation)
