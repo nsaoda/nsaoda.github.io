@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a PhD candidate in the Department of Computer Engineering at the University of Virginia (UVA). My Phd research is supervised by [Dr. Brad Campbell](https://www.cs.virginia.edu/~bjc8c/).
+I am a PhD candidate in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). My Phd research is supervised by [Dr. Brad Campbell](https://www.cs.virginia.edu/~bjc8c/).
 
 My work aims to enable green and sustainable computing in the domain of cyber-physical systems and Internet-of-Things applications. I design hardware and software techniques to make applications reconfigurable, robust, and resilient when powered from harvested energy. My research takes a step toward enabling sustainable IoT by allowing an energy-harvesting power supply to incorporate sensing, computing,  and processing.
 
