@@ -19,6 +19,8 @@ I am a proud member of [UVA Engineering Link Lab](https://engineering.virginia.e
 
 ### News
 
+
+* April 2023 --- I have been selected as a Rising Star in CPS to participate in [University of Virginia CPS Rising Stars workshop 2023](https://risingstars.linklab.virginia.edu/2023/)
 * March 2023 --- Research for Industry talk "Designing Energy-Harvesting Devices for Sustainable Internet-of-Things" at Networking Research Group, Microsoft
 * January 2023 --- Invited talk "Sustainable Internet-of-Things with Batteryless Energy-harvesting Sensors" at Earth Systems Predictability & Resiliency Group, Pacific Northwest National Laboratory
 * November 2022 --- I presented my research on "Broadening the Capabilities of Self-Powered Energy-Harvesting Systems" at the Link Lab Student Seminar!
