@@ -3,23 +3,30 @@ layout: page
 title: About
 ---
 
-I am a PhD candidate in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). My Phd research is supervised by [Dr. Brad Campbell](https://www.cs.virginia.edu/~bjc8c/).
+I am a Postdoctoral Researcher in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), working with [Prof. Tarek Tabdelzaher](http://abdelzaher.cs.illinois.edu/) and [Prof. Josep Torellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html) as a part of the [ACE research center](https://acecenter.grainger.illinois.edu/).
+I received my PhD in Computer Engineering from the Department of Electrical and Computer Engineering at the University of Virginia (UVA), where I was fortunate to work under the supervision of [Prof. Brad Campbell](https://www.cs.virginia.edu/~bjc8c/). I was a member of UVA Engineering [Link Lab](https://engineering.virginia.edu/link-lab).
 
-My work aims to enable green and sustainable computing in the domain of cyber-physical systems and Internet-of-Things applications. I design hardware and software techniques to make applications reconfigurable, robust, and resilient when powered from harvested energy. My research takes a step toward enabling sustainable IoT by allowing an energy-harvesting power supply to incorporate sensing, computing,  and processing.
+My research aims to enable green and sustainable computing for ubiquitous sensing in the domain of Internet-of-Things, mobile computing, and wearables. I work at the intersection of  energy-harvesting and intermittent systems, low power embedded systems design, edge machine learning, and wireless sensing. In my research, I look for ways to combine hardware and software systems efficiently to introduce better energy-management as well as novel, accurate, and reconfigurable sensing, empowering sensors embedded in our daily life to enable a sustainable planet.
+<!-- She explores and develops computing techniques that involve novel design architectures and end-to-end systems to ensure sustainable operation of devices with decades-long lifetime. -->
 
-I am a proud member of [UVA Engineering Link Lab](https://engineering.virginia.edu/link-lab). Before starting my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016. I also completed my Masters in Computer Engineering from UVA in 2020.
+<!-- My work aims to enable green and sustainable computing in the domain of cyber-physical systems and Internet-of-Things applications. I design hardware and software techniques to make applications reconfigurable, robust, and resilient when powered from harvested energy. My research takes a step toward enabling sustainable IoT by allowing an energy-harvesting power supply to incorporate sensing, computing,  and processing. -->
 
-[\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda.pdf)
+Before obtaining my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016.
+<!-- I also completed my Masters in Computer Engineering from UVA in 2020. -->
+
+[\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda_PhD.pdf)
 
 ### Education
 
-* Ph.D., Computer Engineering, University of Virginia
-* M.S., Computer Engineering, University of Virginia
-* B.S., Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology
+* Ph.D., Computer Engineering, University of Virginia, 2023
+* M.S., Computer Engineering, University of Virginia, 2020
+* B.S., Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2016
 
 ### News
 
-
+* September 2023 --- Presented my research in Computer Science Colloquium Speaker Series at UIUC.
+* August 2023 --- I am delighted to receive Grainger Distinguihshed Postdoctoral Fellowship  and Illinois Future Faculty Fellowship from UIUC CS and Engineering
+* June 2023 --- I defended my Dissertation on "Designing Batteryless Energy-harvesting Sensors for Sustainable Internet-of-Things"!!
 * April 2023 --- I have been selected as a Rising Star in CPS to participate in [University of Virginia CPS Rising Stars workshop 2023](https://risingstars.linklab.virginia.edu/2023/)
 * March 2023 --- Research for Industry talk "Designing Energy-Harvesting Devices for Sustainable Internet-of-Things" at Networking Research Group, Microsoft
 * January 2023 --- Invited talk "Sustainable Internet-of-Things with Batteryless Energy-harvesting Sensors" at Earth Systems Predictability & Resiliency Group, Pacific Northwest National Laboratory

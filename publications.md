@@ -72,6 +72,11 @@ in AR View.** <br />
 
 ### Workshop Papers and Posters (Peer-reviewed):
 
+* **Sensing Indoor Lighting Environments and Analysing Dimension Reduction for Identification** <br />
+  Tushar Routh, Nurani Saoda, Md Fazlay Rabbi Masum Billah, Nabeel Nasir, Bradford Campbell <br />
+  [1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities (EnvSys'23 with MobiSys'23)](https://blogs.helsinki.fi/envsys-2023/) <br />
+  [\[paper\]]({{'/'|relative_url}}assets/papers/routh23sensing.pdf)
+
 * **SolarWalk Dataset: Occupant Identification using Indoor Photovoltaic Harvester Output Voltage** <br />
   *Nurani Saoda*, Md Fazlay Rabbi Masum Billah, Victor Ariel Leal Sobral, Bradford Campbell <br />
   [5th International SenSys/BuildSys Workshop on Data (DATA’22 with SenSys’22)](https://data-workshop.github.io/DATA2022/) <br />

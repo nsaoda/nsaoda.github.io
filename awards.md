@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 ---
-
+* Distinguished Postdoctoral Fellow and Illinois Future Faculty Fellow at UIUC
 * [CPS Rising Star 2023](https://risingstars.linklab.virginia.edu/2023/)
 * [University of Virginia Link Lab Student Seminar Award](https://engineering.virginia.edu/link-lab/news/link-lab-awards), 2022 <br />
   <font size = 4 >Highest honor to a PhD student for their impactful work in CPS in a multidisciplinary research lab with 250 students involving UVA Engineering's five departments. </font>
