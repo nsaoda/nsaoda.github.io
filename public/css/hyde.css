@@ -91,8 +91,8 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 2rem; /* space below the social icons*/
-  margin-top:  0rem; /* space above the "about" in sidebar */
+  margin-bottom: 1rem; /* space below the social icons*/
+  margin-top:  rem; /* space above the "about" in sidebar */
 }
 .sidebar-nav-item {
   display: block;
