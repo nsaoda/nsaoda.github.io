@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a Postdoctoral Researcher in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), working with [Prof. Tarek Tabdelzaher](http://abdelzaher.cs.illinois.edu/) and [Prof. Josep Torellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html) as a part of the [ACE research center](https://acecenter.grainger.illinois.edu/).
+I am a Postdoctoral Researcher in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), working with [Prof. Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) and [Prof. Josep Torellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html) as a part of the [ACE research center](https://acecenter.grainger.illinois.edu/).
 I received my PhD in Computer Engineering from the Department of Electrical and Computer Engineering at the University of Virginia (UVA), where I was fortunate to work under the supervision of [Prof. Brad Campbell](https://www.cs.virginia.edu/~bjc8c/). I was a member of UVA Engineering [Link Lab](https://engineering.virginia.edu/link-lab).
 
 My research aims to enable green and sustainable computing for ubiquitous sensing in the domain of Internet-of-Things, mobile computing, and wearables. I work at the intersection of  energy-harvesting and intermittent systems, low power embedded systems design, edge machine learning, and wireless sensing. In my research, I look for ways to combine hardware and software systems efficiently to introduce better energy-management as well as novel, accurate, and reconfigurable sensing, empowering sensors embedded in our daily life to enable a sustainable planet.
