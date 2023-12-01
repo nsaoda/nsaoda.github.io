@@ -14,7 +14,7 @@ My research aims to enable green and sustainable computing for ubiquitous sensin
 Before obtaining my PhD, I received my undergraduate degree in Electrical and Electronic Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016.
 <!-- I also completed my Masters in Computer Engineering from UVA in 2020. -->
 
-[\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda_PhD.pdf)
+[\[CV\]]({{'/'|relative_url}}assets/CV/CV_Nurani_Saoda.pdf) [\[Resume\]]({{'/'|relative_url}}assets/resume/Resume_Nurani_Saoda_ML.pdf)
 
 ### Education
 
